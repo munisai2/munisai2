@@ -22,15 +22,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 3 — Run it once manually
-Go to your repo on GitHub → **Actions tab** → click **"Generate Snake Animation"** → click **"Run workflow"**
-
-That's it! After it runs (~1 min), GitHub will create an `output` branch in your repo with the SVG files, and the snake image in your README will start working automatically. It refreshes every night after that.
-
----
-**Why does the README image URL work?**
-The line in your README points to:
-```
-https://raw.githubusercontent.com/munisai2/munisai2/output/github-contribution-grid-snake-dark.svg
