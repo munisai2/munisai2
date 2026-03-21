@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=🤖+Building+Agentic+AI+%26+LLM+Systems;🧠+Computer+Vision+%7C+RAG+%7C+Graph+Neural+Nets;📊+Deep+RL+%7C+NLP+%7C+MLOps+on+Cloud;🎓+MS+Artificial+Intelligence+%40+UB+(GPA+3.83);🚀+Open+to+ML+%2F+AI+Engineer+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=🤖+Building+Agentic+AI+%26+LLM+Systems;🧠+Computer+Vision+%7C+RAG+%7C+Graph+Neural+Nets;📊+Deep+RL+%7C+NLP+%7C+MLOps+on+Cloud;🎓+MS+Artificial+Intelligence+%40+UB+(GPA+3.83);🚀+Open+to+ML+%2F+AI+Engineer+Roles!" alt="Typing SVG" />
 
 <br/>
 
@@ -172,7 +172,6 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/munisai2/munisai2/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-> ⚙️ *Activate this by adding the [Platane/snk GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 
